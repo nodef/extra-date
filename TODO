@@ -6,3 +6,7 @@
 - https://www.npmjs.com/package/regexp-isodate
 - https://www.npmjs.com/package/is-valid-year
 - https://www.npmjs.com/package/year-range-regex
+Date Methods
+parseDate
+getDates
+diffDays
